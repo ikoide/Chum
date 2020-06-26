@@ -1,2 +1,1 @@
 server,port,subject,content,email,password,targets_file
-smtp.gmail.com,587,NEW TEST SUBJECT 2,test content W,MCJCGRCMWTPAYGCXZXCZ@gmail.com,7qNXnRt8,targets.csv
