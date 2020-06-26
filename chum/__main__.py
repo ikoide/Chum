@@ -15,7 +15,7 @@ class Chum():
     Color.p("         /¸...¸`:·")
     Color.p("    ¸.·´  {D}¸{W}{C}   `·.¸.·´)  {C}Chum {D}%s{W}" % Configuration.version)
     Color.p("{C}   : {R}©{C} {D}):´;{W}{C}      ¸  {   {W}{D}Created: 05/20/20{W}")
-    Color.p("{C}    `·.¸ {D}`·{W}{C}  ¸.·´\`·¸)  {G}Author: ?")
+    Color.p("{C}    `·.¸ {D}`·{W}{C}  ¸.·´\`·¸)  {G}Author: Ian Koide")
     Color.p("{C}         `\\\´´\¸.·´{W}\n")
 
   def start(self):
