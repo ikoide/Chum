@@ -52,5 +52,5 @@ class AttackMail():
     self.send_mail()
 
 if __name__ == '__main__':
-  mail = AttackMail('t', 'MCJCGRCMWTPAYGCXZXCZ@gmail.com', 't', 'smtp.gmail.com', 587, '7qNXnRt8', '/home/lan/Documents/aps-sys/Chum/targets/targets.csv')
+  mail = AttackMail('t', 'MCJCGRCMWTPAYGCXZXCZ@gmail.com', 't', 'smtp.gmail.com', 587, '7qNXnRt8', 'path_to_csv')
   mail.run()
